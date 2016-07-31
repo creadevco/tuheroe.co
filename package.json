@@ -1,0 +1,28 @@
+{
+  "name": "TuHeroe",
+  "version": "0.5.0",
+  "description": "Spectral by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creadevco/tuheroe.co.git"
+  },
+  "author": "Juan Roa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creadevco/tuheroe.co/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "browser-sync": "~2.13.0",
+    "gulp-cssnano": "~2.1.2",
+    "gulp-if": "~2.0.1",
+    "gulp-imagemin": "~3.0.2",
+    "gulp-uglify": "~1.5.4",
+    "gulp-useref": "~3.1.0",
+    "run-sequence": "~1.2.2"
+  }
+}
