@@ -3812,3 +3812,16 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	.logo {
+		width: 15%;
+	}
+
+	.logo-header {
+		padding-bottom: 5%;
+	}
+	@media screen and (max-width: 480px) {
+		.logo {
+			width: 30%;
+		}
+	}
