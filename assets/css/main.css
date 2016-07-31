@@ -3825,3 +3825,10 @@
 			width: 30%;
 		}
 	}
+
+.justify {
+	text-align: justify;
+}
+.strong {
+	font-weight: bold;
+}
